@@ -1,2 +1,2 @@
 Testing perpose
-Sample Java Applicaiton V1.23
+Sample Java Applicaiton V1.24
